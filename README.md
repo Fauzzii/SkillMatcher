@@ -58,8 +58,11 @@ cd SkillMatcher
 Install semua library backend yang dibutuhkan:
 
 ```bash
-# Install Dependencies
 composer install
+```
+Atau
+```bash
+composer update
 ```
 
 ### 3. Konfigurasi Environment (.env)
