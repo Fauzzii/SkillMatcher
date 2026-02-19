@@ -1,0 +1,26 @@
+/vendor
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/.phpunit.cache
+.phpunit.result.cache
+
+# Environment Files (PENTING: Jangan dihapus dari sini)
+.env
+.env.backup
+.env.production
+.env.testing
+
+# IDE & System Files
+/.idea
+/.vscode
+/.fleet
+.DS_Store
+Thumbs.db
+
+# Log Files
+npm-debug.log
+yarn-error.log
+laravel.log
